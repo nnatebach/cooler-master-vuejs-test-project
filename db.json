@@ -1,0 +1,3362 @@
+{
+  "title": "Cooler Master Global",
+  "colors": {
+    "primary": "#84329b",
+    "title": "#000000",
+    "background": "#ffffff",
+    "label": "#84329b",
+    "labelFilled": "#ffffff",
+    "headerBackground": "#84329b",
+    "header": "#ffffff",
+    "sidebarBackground": "#f2f2f2",
+    "sidebarHeaderBackground": "#ffffff",
+    "sidebarHeader": "#000000",
+    "buyButton": "#f7ba01",
+    "buyText": "#53565a"
+  },
+  "components": [
+    {
+      "id": 4,
+      "title": "CPU",
+      "key": "CPU",
+      "showOrder": 1,
+      "levels": 3,
+      "components": [
+        {
+          "id": 1,
+          "title": "AMD",
+          "childs": [
+            {
+              "id": 493,
+              "title": "AM2",
+              "childs": [
+                {
+                  "id": 1280,
+                  "wattage": 9,
+                  "title": "Athlon 64 1500+"
+                },
+                {
+                  "id": 1281,
+                  "wattage": 45,
+                  "title": "Athlon 64 1640B"
+                },
+                {
+                  "id": 1282,
+                  "wattage": 8,
+                  "title": "Athlon 64 2000+"
+                },
+                {
+                  "id": 1283,
+                  "wattage": 15,
+                  "title": "Athlon 64 2600+"
+                },
+                {
+                  "id": 1284,
+                  "wattage": 15,
+                  "title": "Athlon 64 2650e"
+                },
+                {
+                  "id": 1286,
+                  "wattage": 22,
+                  "title": "Athlon 64 2850e"
+                },
+                {
+                  "id": 1285,
+                  "wattage": 89,
+                  "title": "Athlon 64 2800+"
+                },
+                {
+                  "id": 1287,
+                  "wattage": 62,
+                  "title": "Athlon 64 3000+"
+                },
+                {
+                  "id": 1288,
+                  "wattage": 25,
+                  "title": "Athlon 64 3100+"
+                },
+                {
+                  "id": 1289,
+                  "wattage": 45,
+                  "title": "Athlon 64 3200+"
+                },
+                {
+                  "id": 1290,
+                  "wattage": 89,
+                  "title": "Athlon 64 3300+"
+                },
+                {
+                  "id": 1291,
+                  "wattage": 83,
+                  "title": "Athlon 64 3400+"
+                },
+                {
+                  "id": 1292,
+                  "wattage": 62,
+                  "title": "Athlon 64 3500+"
+                },
+                {
+                  "id": 1293,
+                  "wattage": 89,
+                  "title": "Athlon 64 3600+"
+                },
+                {
+                  "id": 1294,
+                  "wattage": 83,
+                  "title": "Athlon 64 3700+"
+                },
+                {
+                  "id": 1295,
+                  "wattage": 62,
+                  "title": "Athlon 64 3800+"
+                },
+                {
+                  "id": 1296,
+                  "wattage": 62,
+                  "title": "Athlon 64 4000+"
+                },
+                {
+                  "id": 1297,
+                  "wattage": 45,
+                  "title": "Athlon 64 LE-1600"
+                },
+                {
+                  "id": 1298,
+                  "wattage": 45,
+                  "title": "Athlon 64 LE-1620"
+                },
+                {
+                  "id": 1299,
+                  "wattage": 45,
+                  "title": "Athlon 64 LE-1640"
+                },
+                {
+                  "id": 1300,
+                  "wattage": 45,
+                  "title": "Athlon 64 LE-1660"
+                },
+                {
+                  "id": 1301,
+                  "wattage": 20,
+                  "title": "Athlon 64 X2 3000+"
+                },
+                {
+                  "id": 1302,
+                  "wattage": 22,
+                  "title": "Athlon 64 X2 3250e"
+                },
+                {
+                  "id": 1303,
+                  "wattage": 89,
+                  "title": "Athlon 64 X2 3800+"
+                },
+                {
+                  "id": 1304,
+                  "wattage": 65,
+                  "title": "Athlon 64 X2 4000+"
+                },
+                {
+                  "id": 1305,
+                  "wattage": 65,
+                  "title": "Athlon 64 X2 4200+"
+                },
+                {
+                  "id": 1306,
+                  "wattage": 65,
+                  "title": "Athlon 64 X2 4400+"
+                },
+                {
+                  "id": 1307,
+                  "wattage": 65,
+                  "title": "Athlon 64 X2 4600+"
+                },
+                {
+                  "id": 1308,
+                  "wattage": 65,
+                  "title": "Athlon 64 X2 4800+"
+                },
+                {
+                  "id": 1309,
+                  "wattage": 65,
+                  "title": "Athlon 64 X2 5000+"
+                },
+                {
+                  "id": 1310,
+                  "wattage": 65,
+                  "title": "Athlon 64 X2 5200+"
+                },
+                {
+                  "id": 1311,
+                  "wattage": 65,
+                  "title": "Athlon 64 X2 5400+"
+                },
+                {
+                  "id": 1312,
+                  "wattage": 65,
+                  "title": "Athlon 64 X2 5600+"
+                },
+                {
+                  "id": 1313,
+                  "wattage": 89,
+                  "title": "Athlon 64 X2 6000+"
+                },
+                {
+                  "id": 1314,
+                  "wattage": 125,
+                  "title": "Athlon 64 X2 6400+"
+                },
+                {
+                  "id": 1323,
+                  "wattage": 45,
+                  "title": "Athlon X2 BE-2300"
+                },
+                {
+                  "id": 1324,
+                  "wattage": 45,
+                  "title": "Athlon X2 BE-2350"
+                },
+                {
+                  "id": 1325,
+                  "wattage": 45,
+                  "title": "Athlon X2 BE-2400"
+                },
+                {
+                  "id": 1326,
+                  "wattage": 45,
+                  "title": "Athlon X2 BE-2450"
+                },
+                {
+                  "id": 1315,
+                  "wattage": 45,
+                  "title": "Athlon X2 4050e"
+                },
+                {
+                  "id": 1316,
+                  "wattage": 45,
+                  "title": "Athlon X2 4450e"
+                },
+                {
+                  "id": 1317,
+                  "wattage": 65,
+                  "title": "Athlon X2 4600+"
+                },
+                {
+                  "id": 1318,
+                  "wattage": 45,
+                  "title": "Athlon X2 4850e"
+                },
+                {
+                  "id": 1319,
+                  "wattage": 65,
+                  "title": "Athlon X2 5400+"
+                },
+                {
+                  "id": 1320,
+                  "wattage": 65,
+                  "title": "Athlon X2 5400+ Black Edition"
+                },
+                {
+                  "id": 1321,
+                  "wattage": 65,
+                  "title": "Athlon X2 5600+"
+                },
+                {
+                  "id": 1322,
+                  "wattage": 89,
+                  "title": "Athlon X2 5800+"
+                },
+                {
+                  "id": 1355,
+                  "wattage": 65,
+                  "title": "Phenom X4 9100e"
+                },
+                {
+                  "id": 1356,
+                  "wattage": 65,
+                  "title": "Phenom X4 9150e"
+                },
+                {
+                  "id": 1357,
+                  "wattage": 65,
+                  "title": "Phenom X4 9350e"
+                },
+                {
+                  "id": 1358,
+                  "wattage": 65,
+                  "title": "Phenom X4 9450e"
+                },
+                {
+                  "id": 1359,
+                  "wattage": 95,
+                  "title": "Phenom X4 9500"
+                },
+                {
+                  "id": 1360,
+                  "wattage": 95,
+                  "title": "Phenom X4 9550"
+                },
+                {
+                  "id": 1361,
+                  "wattage": 95,
+                  "title": "Phenom X4 9600"
+                },
+                {
+                  "id": 1362,
+                  "wattage": 95,
+                  "title": "Phenom X4 9600 Black Edition"
+                },
+                {
+                  "id": 1363,
+                  "wattage": 95,
+                  "title": "Phenom X4 9600B"
+                },
+                {
+                  "id": 1364,
+                  "wattage": 95,
+                  "title": "Phenom X4 9650"
+                },
+                {
+                  "id": 1365,
+                  "wattage": 125,
+                  "title": "Phenom X4 9700"
+                },
+                {
+                  "id": 1366,
+                  "wattage": 95,
+                  "title": "Phenom X4 9750"
+                },
+                {
+                  "id": 1367,
+                  "wattage": 95,
+                  "title": "Phenom X4 9750B"
+                },
+                {
+                  "id": 1368,
+                  "wattage": 95,
+                  "title": "Phenom X4 9850"
+                },
+                {
+                  "id": 1369,
+                  "wattage": 125,
+                  "title": "Phenom X4 9850 Black Edition"
+                },
+                {
+                  "id": 1370,
+                  "wattage": 95,
+                  "title": "Phenom X4 9850B"
+                },
+                {
+                  "id": 1371,
+                  "wattage": 125,
+                  "title": "Phenom X4 9950 Black Edition"
+                },
+                {
+                  "id": 1327,
+                  "wattage": 95,
+                  "title": "Phenom II X4 650T"
+                },
+                {
+                  "id": 1328,
+                  "wattage": 95,
+                  "title": "Phenom II X4 805"
+                },
+                {
+                  "id": 1329,
+                  "wattage": 95,
+                  "title": "Phenom II X4 810"
+                },
+                {
+                  "id": 1330,
+                  "wattage": 95,
+                  "title": "Phenom II X4 820"
+                },
+                {
+                  "id": 1331,
+                  "wattage": 95,
+                  "title": "Phenom II X4 830"
+                },
+                {
+                  "id": 1332,
+                  "wattage": 95,
+                  "title": "Phenom II X4 840"
+                },
+                {
+                  "id": 1333,
+                  "wattage": 95,
+                  "title": "Phenom II X4 840T"
+                },
+                {
+                  "id": 1334,
+                  "wattage": 95,
+                  "title": "Phenom II X4 850"
+                },
+                {
+                  "id": 1335,
+                  "wattage": 65,
+                  "title": "Phenom II X4 900e"
+                },
+                {
+                  "id": 1336,
+                  "wattage": 65,
+                  "title": "Phenom II X4 905e"
+                },
+                {
+                  "id": 1337,
+                  "wattage": 95,
+                  "title": "Phenom II X4 910"
+                },
+                {
+                  "id": 1338,
+                  "wattage": 65,
+                  "title": "Phenom II X4 910e"
+                },
+                {
+                  "id": 1339,
+                  "wattage": 125,
+                  "title": "Phenom II X4 920"
+                },
+                {
+                  "id": 1340,
+                  "wattage": 95,
+                  "title": "Phenom II X4 925"
+                },
+                {
+                  "id": 1341,
+                  "wattage": 125,
+                  "title": "Phenom II X4 940 Black Edition"
+                },
+                {
+                  "id": 1342,
+                  "wattage": 125,
+                  "title": "Phenom II X4 945"
+                },
+                {
+                  "id": 1343,
+                  "wattage": 125,
+                  "title": "Phenom II X4 955"
+                },
+                {
+                  "id": 1344,
+                  "wattage": 125,
+                  "title": "Phenom II X4 955 Black Edition"
+                },
+                {
+                  "id": 1345,
+                  "wattage": 95,
+                  "title": "Phenom II X4 960T"
+                },
+                {
+                  "id": 1346,
+                  "wattage": 95,
+                  "title": "Phenom II X4 960T Black Edition"
+                },
+                {
+                  "id": 1347,
+                  "wattage": 125,
+                  "title": "Phenom II X4 965"
+                },
+                {
+                  "id": 1348,
+                  "wattage": 140,
+                  "title": "Phenom II X4 965 Black Edition"
+                },
+                {
+                  "id": 1349,
+                  "wattage": 125,
+                  "title": "Phenom II X4 970 Black Edition"
+                },
+                {
+                  "id": 1350,
+                  "wattage": 125,
+                  "title": "Phenom II X4 975 Black Edition"
+                },
+                {
+                  "id": 1351,
+                  "wattage": 125,
+                  "title": "Phenom II X4 980 Black Edition"
+                },
+                {
+                  "id": 1352,
+                  "wattage": 95,
+                  "title": "Phenom II X4 B93"
+                },
+                {
+                  "id": 1353,
+                  "wattage": 95,
+                  "title": "Phenom II X4 B95"
+                },
+                {
+                  "id": 1354,
+                  "wattage": 95,
+                  "title": "Phenom II X4 B97"
+                }
+              ]
+            },
+            {
+              "id": 722,
+              "title": "AM2+",
+              "childs": [
+                {
+                  "id": 1400,
+                  "wattage": 65,
+                  "title": "Phenom X4 9100e"
+                },
+                {
+                  "id": 1401,
+                  "wattage": 65,
+                  "title": "Phenom X4 9150e"
+                },
+                {
+                  "id": 1402,
+                  "wattage": 65,
+                  "title": "Phenom X4 9350e"
+                },
+                {
+                  "id": 1403,
+                  "wattage": 65,
+                  "title": "Phenom X4 9450e"
+                },
+                {
+                  "id": 1404,
+                  "wattage": 95,
+                  "title": "Phenom X4 9500"
+                },
+                {
+                  "id": 1405,
+                  "wattage": 95,
+                  "title": "Phenom X4 9550"
+                },
+                {
+                  "id": 1406,
+                  "wattage": 95,
+                  "title": "Phenom X4 9600"
+                },
+                {
+                  "id": 1407,
+                  "wattage": 95,
+                  "title": "Phenom X4 9600 Black Edition"
+                },
+                {
+                  "id": 1408,
+                  "wattage": 95,
+                  "title": "Phenom X4 9600B"
+                },
+                {
+                  "id": 1409,
+                  "wattage": 95,
+                  "title": "Phenom X4 9650"
+                },
+                {
+                  "id": 1410,
+                  "wattage": 125,
+                  "title": "Phenom X4 9700"
+                },
+                {
+                  "id": 1411,
+                  "wattage": 95,
+                  "title": "Phenom X4 9750"
+                },
+                {
+                  "id": 1412,
+                  "wattage": 95,
+                  "title": "Phenom X4 9750B"
+                },
+                {
+                  "id": 1413,
+                  "wattage": 95,
+                  "title": "Phenom X4 9850"
+                },
+                {
+                  "id": 1414,
+                  "wattage": 125,
+                  "title": "Phenom X4 9850 Black Edition"
+                },
+                {
+                  "id": 1415,
+                  "wattage": 95,
+                  "title": "Phenom X4 9850B"
+                },
+                {
+                  "id": 1416,
+                  "wattage": 125,
+                  "title": "Phenom X4 9950 Black Edition"
+                },
+                {
+                  "id": 1372,
+                  "wattage": 95,
+                  "title": "Phenom II X4 650T"
+                },
+                {
+                  "id": 1373,
+                  "wattage": 95,
+                  "title": "Phenom II X4 805"
+                },
+                {
+                  "id": 1374,
+                  "wattage": 95,
+                  "title": "Phenom II X4 810"
+                },
+                {
+                  "id": 1375,
+                  "wattage": 95,
+                  "title": "Phenom II X4 820"
+                },
+                {
+                  "id": 1376,
+                  "wattage": 95,
+                  "title": "Phenom II X4 830"
+                },
+                {
+                  "id": 1377,
+                  "wattage": 95,
+                  "title": "Phenom II X4 840"
+                },
+                {
+                  "id": 1378,
+                  "wattage": 95,
+                  "title": "Phenom II X4 840T"
+                },
+                {
+                  "id": 1379,
+                  "wattage": 95,
+                  "title": "Phenom II X4 850"
+                },
+                {
+                  "id": 1380,
+                  "wattage": 65,
+                  "title": "Phenom II X4 900e"
+                },
+                {
+                  "id": 1381,
+                  "wattage": 65,
+                  "title": "Phenom II X4 905e"
+                },
+                {
+                  "id": 1382,
+                  "wattage": 95,
+                  "title": "Phenom II X4 910"
+                },
+                {
+                  "id": 1383,
+                  "wattage": 65,
+                  "title": "Phenom II X4 910e"
+                },
+                {
+                  "id": 1384,
+                  "wattage": 125,
+                  "title": "Phenom II X4 920"
+                },
+                {
+                  "id": 1385,
+                  "wattage": 95,
+                  "title": "Phenom II X4 925"
+                },
+                {
+                  "id": 1386,
+                  "wattage": 125,
+                  "title": "Phenom II X4 940 Black Edition"
+                },
+                {
+                  "id": 1387,
+                  "wattage": 125,
+                  "title": "Phenom II X4 945"
+                },
+                {
+                  "id": 1388,
+                  "wattage": 125,
+                  "title": "Phenom II X4 955"
+                },
+                {
+                  "id": 1389,
+                  "wattage": 125,
+                  "title": "Phenom II X4 955 Black Edition"
+                },
+                {
+                  "id": 1390,
+                  "wattage": 95,
+                  "title": "Phenom II X4 960T"
+                },
+                {
+                  "id": 1391,
+                  "wattage": 95,
+                  "title": "Phenom II X4 960T Black Edition"
+                },
+                {
+                  "id": 1392,
+                  "wattage": 125,
+                  "title": "Phenom II X4 965"
+                },
+                {
+                  "id": 1393,
+                  "wattage": 140,
+                  "title": "Phenom II X4 965 Black Edition"
+                },
+                {
+                  "id": 1394,
+                  "wattage": 125,
+                  "title": "Phenom II X4 970 Black Edition"
+                },
+                {
+                  "id": 1395,
+                  "wattage": 125,
+                  "title": "Phenom II X4 975 Black Edition"
+                },
+                {
+                  "id": 1396,
+                  "wattage": 125,
+                  "title": "Phenom II X4 980 Black Edition"
+                },
+                {
+                  "id": 1397,
+                  "wattage": 95,
+                  "title": "Phenom II X4 B93"
+                },
+                {
+                  "id": 1398,
+                  "wattage": 95,
+                  "title": "Phenom II X4 B95"
+                },
+                {
+                  "id": 1399,
+                  "wattage": 95,
+                  "title": "Phenom II X4 B97"
+                }
+              ]
+            },
+            {
+              "id": 768,
+              "title": "AM3",
+              "childs": [
+                {
+                  "id": 1417,
+                  "wattage": 95,
+                  "title": "Phenom II X4 650T"
+                },
+                {
+                  "id": 1418,
+                  "wattage": 95,
+                  "title": "Phenom II X4 805"
+                },
+                {
+                  "id": 1419,
+                  "wattage": 95,
+                  "title": "Phenom II X4 810"
+                },
+                {
+                  "id": 1420,
+                  "wattage": 95,
+                  "title": "Phenom II X4 820"
+                },
+                {
+                  "id": 1421,
+                  "wattage": 95,
+                  "title": "Phenom II X4 830"
+                },
+                {
+                  "id": 1422,
+                  "wattage": 95,
+                  "title": "Phenom II X4 840"
+                },
+                {
+                  "id": 1423,
+                  "wattage": 95,
+                  "title": "Phenom II X4 840T"
+                },
+                {
+                  "id": 1424,
+                  "wattage": 95,
+                  "title": "Phenom II X4 850"
+                },
+                {
+                  "id": 1425,
+                  "wattage": 65,
+                  "title": "Phenom II X4 900e"
+                },
+                {
+                  "id": 1426,
+                  "wattage": 65,
+                  "title": "Phenom II X4 905e"
+                },
+                {
+                  "id": 1427,
+                  "wattage": 95,
+                  "title": "Phenom II X4 910"
+                },
+                {
+                  "id": 1428,
+                  "wattage": 65,
+                  "title": "Phenom II X4 910e"
+                },
+                {
+                  "id": 1429,
+                  "wattage": 125,
+                  "title": "Phenom II X4 920"
+                },
+                {
+                  "id": 1430,
+                  "wattage": 95,
+                  "title": "Phenom II X4 925"
+                },
+                {
+                  "id": 1431,
+                  "wattage": 125,
+                  "title": "Phenom II X4 940 Black Edition"
+                },
+                {
+                  "id": 1432,
+                  "wattage": 125,
+                  "title": "Phenom II X4 945"
+                },
+                {
+                  "id": 1433,
+                  "wattage": 125,
+                  "title": "Phenom II X4 955"
+                },
+                {
+                  "id": 1434,
+                  "wattage": 125,
+                  "title": "Phenom II X4 955 Black Edition"
+                },
+                {
+                  "id": 1435,
+                  "wattage": 95,
+                  "title": "Phenom II X4 960T"
+                },
+                {
+                  "id": 1436,
+                  "wattage": 95,
+                  "title": "Phenom II X4 960T Black Edition"
+                },
+                {
+                  "id": 1437,
+                  "wattage": 125,
+                  "title": "Phenom II X4 965"
+                },
+                {
+                  "id": 1438,
+                  "wattage": 140,
+                  "title": "Phenom II X4 965 Black Edition"
+                },
+                {
+                  "id": 1439,
+                  "wattage": 125,
+                  "title": "Phenom II X4 970 Black Edition"
+                },
+                {
+                  "id": 1440,
+                  "wattage": 125,
+                  "title": "Phenom II X4 975 Black Edition"
+                },
+                {
+                  "id": 1441,
+                  "wattage": 125,
+                  "title": "Phenom II X4 980 Black Edition"
+                },
+                {
+                  "id": 1442,
+                  "wattage": 95,
+                  "title": "Phenom II X4 B93"
+                },
+                {
+                  "id": 1443,
+                  "wattage": 95,
+                  "title": "Phenom II X4 B95"
+                },
+                {
+                  "id": 1444,
+                  "wattage": 95,
+                  "title": "Phenom II X4 B97"
+                }
+              ]
+            },
+            {
+              "id": 587,
+              "title": "AM3+/FM2/FM2+",
+              "childs": [
+                {
+                  "id": 1459,
+                  "wattage": 65,
+                  "title": "FX-670K"
+                },
+                {
+                  "id": 1460,
+                  "wattage": 65,
+                  "title": "FX-770K"
+                },
+                {
+                  "id": 1445,
+                  "wattage": 95,
+                  "title": "FX-4100"
+                },
+                {
+                  "id": 1446,
+                  "wattage": 125,
+                  "title": "FX-4130"
+                },
+                {
+                  "id": 1447,
+                  "wattage": 95,
+                  "title": "FX-4150"
+                },
+                {
+                  "id": 1448,
+                  "wattage": 125,
+                  "title": "FX-4170"
+                },
+                {
+                  "id": 1449,
+                  "wattage": 95,
+                  "title": "FX-4200"
+                },
+                {
+                  "id": 1450,
+                  "wattage": 95,
+                  "title": "FX-4300"
+                },
+                {
+                  "id": 1451,
+                  "wattage": 95,
+                  "title": "FX-4320"
+                },
+                {
+                  "id": 1452,
+                  "wattage": 125,
+                  "title": "FX-4350"
+                },
+                {
+                  "id": 1453,
+                  "wattage": 95,
+                  "title": "FX-6100"
+                },
+                {
+                  "id": 1454,
+                  "wattage": 95,
+                  "title": "FX-6120"
+                },
+                {
+                  "id": 1455,
+                  "wattage": 125,
+                  "title": "FX-6200"
+                },
+                {
+                  "id": 1456,
+                  "wattage": 95,
+                  "title": "FX-6300"
+                },
+                {
+                  "id": 1457,
+                  "wattage": 125,
+                  "title": "FX-6330"
+                },
+                {
+                  "id": 1458,
+                  "wattage": 125,
+                  "title": "FX-6350"
+                },
+                {
+                  "id": 1461,
+                  "wattage": 95,
+                  "title": "FX-8100"
+                },
+                {
+                  "id": 1462,
+                  "wattage": 125,
+                  "title": "FX-8120"
+                },
+                {
+                  "id": 1463,
+                  "wattage": 95,
+                  "title": "FX-8140"
+                },
+                {
+                  "id": 1464,
+                  "wattage": 125,
+                  "title": "FX-8150"
+                },
+                {
+                  "id": 1465,
+                  "wattage": 95,
+                  "title": "FX-8300"
+                },
+                {
+                  "id": 1466,
+                  "wattage": 95,
+                  "title": "FX-8310"
+                },
+                {
+                  "id": 1467,
+                  "wattage": 125,
+                  "title": "FX-8320"
+                },
+                {
+                  "id": 1468,
+                  "wattage": 95,
+                  "title": "FX-8320E"
+                },
+                {
+                  "id": 1469,
+                  "wattage": 125,
+                  "title": "FX-8350"
+                },
+                {
+                  "id": 1470,
+                  "wattage": 125,
+                  "title": "FX-8370"
+                },
+                {
+                  "id": 1471,
+                  "wattage": 95,
+                  "title": "FX-8370E"
+                },
+                {
+                  "id": 1472,
+                  "wattage": 220,
+                  "title": "FX-9370"
+                },
+                {
+                  "id": 1473,
+                  "wattage": 220,
+                  "title": "FX-9590"
+                }
+              ]
+            },
+            {
+              "id": 13,
+              "title": "AM4",
+              "childs": [
+                {
+                  "id": 1474,
+                  "wattage": 65,
+                  "title": "Ryzen 3 1200"
+                },
+                {
+                  "id": 1475,
+                  "wattage": 65,
+                  "title": "Ryzen 3 1300X"
+                },
+                {
+                  "id": 1476,
+                  "wattage": 65,
+                  "title": "Ryzen 3 2200G"
+                },
+                {
+                  "id": 1477,
+                  "wattage": 65,
+                  "title": "Ryzen 3 2200GE"
+                },
+                {
+                  "id": 1478,
+                  "wattage": 65,
+                  "title": "Ryzen 3 2300X"
+                },
+                {
+                  "id": 1479,
+                  "wattage": 65,
+                  "title": "Ryzen 3 3200G"
+                },
+                {
+                  "id": 1480,
+                  "wattage": 65,
+                  "title": "Ryzen 5 1400"
+                },
+                {
+                  "id": 1481,
+                  "wattage": 65,
+                  "title": "Ryzen 5 1500X"
+                },
+                {
+                  "id": 1482,
+                  "wattage": 65,
+                  "title": "Ryzen 5 1600"
+                },
+                {
+                  "id": 1483,
+                  "wattage": 95,
+                  "title": "Ryzen 5 1600X"
+                },
+                {
+                  "id": 1484,
+                  "wattage": 65,
+                  "title": "Ryzen 5 2400G"
+                },
+                {
+                  "id": 1485,
+                  "wattage": 65,
+                  "title": "Ryzen 5 2400GE"
+                },
+                {
+                  "id": 1486,
+                  "wattage": 65,
+                  "title": "Ryzen 5 2500X"
+                },
+                {
+                  "id": 1487,
+                  "wattage": 65,
+                  "title": "Ryzen 5 2600"
+                },
+                {
+                  "id": 1488,
+                  "wattage": 65,
+                  "title": "Ryzen 5 2600E"
+                },
+                {
+                  "id": 1489,
+                  "wattage": 95,
+                  "title": "Ryzen 5 2600X"
+                },
+                {
+                  "id": 1490,
+                  "wattage": 65,
+                  "title": "Ryzen 5 3400G"
+                },
+                {
+                  "id": 1491,
+                  "wattage": 65,
+                  "title": "Ryzen 5 3500"
+                },
+                {
+                  "id": 1492,
+                  "wattage": 65,
+                  "title": "Ryzen 5 3500X"
+                },
+                {
+                  "id": 1493,
+                  "wattage": 65,
+                  "title": "Ryzen 5 3600"
+                },
+                {
+                  "id": 1494,
+                  "wattage": 95,
+                  "title": "Ryzen 5 3600X"
+                },
+                {
+                  "id": 1495,
+                  "wattage": 65,
+                  "title": "Ryzen 5 PRO 1500"
+                },
+                {
+                  "id": 1496,
+                  "wattage": 65,
+                  "title": "Ryzen 5 PRO 1600"
+                },
+                {
+                  "id": 1497,
+                  "wattage": 65,
+                  "title": "Ryzen 5 PRO 2400G"
+                },
+                {
+                  "id": 1498,
+                  "wattage": 65,
+                  "title": "Ryzen 5 PRO 2400GE"
+                },
+                {
+                  "id": 1499,
+                  "wattage": 65,
+                  "title": "Ryzen 5 PRO 2600"
+                },
+                {
+                  "id": 1500,
+                  "wattage": 95,
+                  "title": "Ryzen 5 PRO 3600"
+                },
+                {
+                  "id": 1501,
+                  "wattage": 65,
+                  "title": "Ryzen 7 1700"
+                },
+                {
+                  "id": 1502,
+                  "wattage": 95,
+                  "title": "Ryzen 7 1700X"
+                },
+                {
+                  "id": 1503,
+                  "wattage": 95,
+                  "title": "Ryzen 7 1800X"
+                },
+                {
+                  "id": 1504,
+                  "wattage": 65,
+                  "title": "Ryzen 7 2700"
+                },
+                {
+                  "id": 1505,
+                  "wattage": 65,
+                  "title": "Ryzen 7 2700E"
+                },
+                {
+                  "id": 1506,
+                  "wattage": 105,
+                  "title": "Ryzen 7 2700X"
+                },
+                {
+                  "id": 1507,
+                  "wattage": 65,
+                  "title": "Ryzen 7 3700X"
+                },
+                {
+                  "id": 1508,
+                  "wattage": 105,
+                  "title": "Ryzen 7 3800X"
+                },
+                {
+                  "id": 1509,
+                  "wattage": 65,
+                  "title": "Ryzen 7 PRO 1700"
+                },
+                {
+                  "id": 1510,
+                  "wattage": 95,
+                  "title": "Ryzen 7 PRO 1700X"
+                },
+                {
+                  "id": 1511,
+                  "wattage": 65,
+                  "title": "Ryzen 7 PRO 2700"
+                },
+                {
+                  "id": 1512,
+                  "wattage": 95,
+                  "title": "Ryzen 7 PRO 2700X"
+                },
+                {
+                  "id": 1513,
+                  "wattage": 95,
+                  "title": "Ryzen 7 PRO 3700"
+                }
+              ]
+            },
+            {
+              "id": 656,
+              "title": "TR4/sTRX4",
+              "childs": [
+                {
+                  "id": 1514,
+                  "wattage": 125,
+                  "title": "Ryzen Threadripper 1900X"
+                },
+                {
+                  "id": 1515,
+                  "wattage": 180,
+                  "title": "Ryzen Threadripper 1920X"
+                },
+                {
+                  "id": 1516,
+                  "wattage": 180,
+                  "title": "Ryzen Threadripper 1950X"
+                },
+                {
+                  "id": 1517,
+                  "wattage": 180,
+                  "title": "Ryzen Threadripper 2920X"
+                },
+                {
+                  "id": 1518,
+                  "wattage": 180,
+                  "title": "Ryzen Threadripper 2950X"
+                },
+                {
+                  "id": 1519,
+                  "wattage": 250,
+                  "title": "Ryzen Threadripper 2970WX"
+                },
+                {
+                  "id": 1520,
+                  "wattage": 250,
+                  "title": "Ryzen Threadripper 2990WX"
+                },
+                {
+                  "id": 1521,
+                  "wattage": 280,
+                  "title": "Ryzen Threadripper 3960X"
+                },
+                {
+                  "id": 1522,
+                  "wattage": 280,
+                  "title": "Ryzen Threadripper 3970X"
+                },
+                {
+                  "id": 1523,
+                  "wattage": 280,
+                  "title": "Ryzen Threadripper 3990X"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 26,
+          "title": "Intel",
+          "childs": [
+            {
+              "id": 30,
+              "title": "LGA 1150",
+              "childs": [
+                {
+                  "id": 1524,
+                  "wattage": 54,
+                  "title": "Celeron G1820"
+                },
+                {
+                  "id": 1525,
+                  "wattage": 54,
+                  "title": "Celeron G1830"
+                },
+                {
+                  "id": 1526,
+                  "wattage": 54,
+                  "title": "Celeron G1840"
+                },
+                {
+                  "id": 1527,
+                  "wattage": 54,
+                  "title": "Celeron G1850"
+                },
+                {
+                  "id": 1528,
+                  "wattage": 54,
+                  "title": "Core i3-4130"
+                },
+                {
+                  "id": 1529,
+                  "wattage": 54,
+                  "title": "Core i3-4150"
+                },
+                {
+                  "id": 1530,
+                  "wattage": 54,
+                  "title": "Core i3-4160"
+                },
+                {
+                  "id": 1531,
+                  "wattage": 35,
+                  "title": "Core i3-4160T"
+                },
+                {
+                  "id": 1532,
+                  "wattage": 54,
+                  "title": "Core i3-4170"
+                },
+                {
+                  "id": 1533,
+                  "wattage": 54,
+                  "title": "Core i3-4330"
+                },
+                {
+                  "id": 1534,
+                  "wattage": 54,
+                  "title": "Core i3-4340"
+                },
+                {
+                  "id": 1535,
+                  "wattage": 54,
+                  "title": "Core i3-4350"
+                },
+                {
+                  "id": 1536,
+                  "wattage": 54,
+                  "title": "Core i3-4360"
+                },
+                {
+                  "id": 1537,
+                  "wattage": 84,
+                  "title": "Core i5-4430"
+                },
+                {
+                  "id": 1538,
+                  "wattage": 65,
+                  "title": "Core i5-4430S"
+                },
+                {
+                  "id": 1539,
+                  "wattage": 84,
+                  "title": "Core i5-4440"
+                },
+                {
+                  "id": 1540,
+                  "wattage": 84,
+                  "title": "Core i5-4570"
+                },
+                {
+                  "id": 1541,
+                  "wattage": 65,
+                  "title": "Core i5-4570S"
+                },
+                {
+                  "id": 1542,
+                  "wattage": 35,
+                  "title": "Core i5-4570T"
+                },
+                {
+                  "id": 1543,
+                  "wattage": 35,
+                  "title": "Core i5-4570TE"
+                },
+                {
+                  "id": 1544,
+                  "wattage": 84,
+                  "title": "Core i5-4590"
+                },
+                {
+                  "id": 1545,
+                  "wattage": 65,
+                  "title": "Core i5-4590S"
+                },
+                {
+                  "id": 1546,
+                  "wattage": 84,
+                  "title": "Core i5-4670"
+                },
+                {
+                  "id": 1547,
+                  "wattage": 84,
+                  "title": "Core i5-4670K"
+                },
+                {
+                  "id": 1548,
+                  "wattage": 84,
+                  "title": "Core i5-4690"
+                },
+                {
+                  "id": 1549,
+                  "wattage": 88,
+                  "title": "Core i5-4690K"
+                },
+                {
+                  "id": 1550,
+                  "wattage": 65,
+                  "title": "Core i5-5675C"
+                },
+                {
+                  "id": 1551,
+                  "wattage": 35,
+                  "title": "Core i7-4765T"
+                },
+                {
+                  "id": 1552,
+                  "wattage": 84,
+                  "title": "Core i7-4770"
+                },
+                {
+                  "id": 1553,
+                  "wattage": 84,
+                  "title": "Core i7-4770K"
+                },
+                {
+                  "id": 1554,
+                  "wattage": 65,
+                  "title": "Core i7-4770S"
+                },
+                {
+                  "id": 1555,
+                  "wattage": 45,
+                  "title": "Core i7-4770T"
+                },
+                {
+                  "id": 1556,
+                  "wattage": 84,
+                  "title": "Core i7-4771"
+                },
+                {
+                  "id": 1557,
+                  "wattage": 84,
+                  "title": "Core i7-4790"
+                },
+                {
+                  "id": 1558,
+                  "wattage": 88,
+                  "title": "Core i7-4790K"
+                },
+                {
+                  "id": 1559,
+                  "wattage": 65,
+                  "title": "Core i7-4790S"
+                },
+                {
+                  "id": 1560,
+                  "wattage": 65,
+                  "title": "Core i7-5775C"
+                },
+                {
+                  "id": 1561,
+                  "wattage": 54,
+                  "title": "Pentium G3220"
+                },
+                {
+                  "id": 1562,
+                  "wattage": 35,
+                  "title": "Pentium G3220T"
+                },
+                {
+                  "id": 1563,
+                  "wattage": 54,
+                  "title": "Pentium G3240"
+                },
+                {
+                  "id": 1564,
+                  "wattage": 35,
+                  "title": "Pentium G3250T"
+                },
+                {
+                  "id": 1565,
+                  "wattage": 54,
+                  "title": "Pentium G3258"
+                },
+                {
+                  "id": 1566,
+                  "wattage": 35,
+                  "title": "Pentium G3260T"
+                },
+                {
+                  "id": 1567,
+                  "wattage": 54,
+                  "title": "Pentium G3420"
+                },
+                {
+                  "id": 1568,
+                  "wattage": 54,
+                  "title": "Pentium G3430"
+                },
+                {
+                  "id": 1569,
+                  "wattage": 54,
+                  "title": "Pentium G3450"
+                }
+              ]
+            },
+            {
+              "id": 74,
+              "title": "LGA 1151",
+              "childs": [
+                {
+                  "id": 1570,
+                  "wattage": 51,
+                  "title": "Celeron G3900"
+                },
+                {
+                  "id": 1571,
+                  "wattage": 35,
+                  "title": "Celeron G3900T"
+                },
+                {
+                  "id": 1572,
+                  "wattage": 51,
+                  "title": "Celeron G3920"
+                },
+                {
+                  "id": 1573,
+                  "wattage": 51,
+                  "title": "Celeron G3930"
+                },
+                {
+                  "id": 1574,
+                  "wattage": 51,
+                  "title": "Celeron G4900"
+                },
+                {
+                  "id": 1575,
+                  "wattage": 51,
+                  "title": "Celeron G4920"
+                },
+                {
+                  "id": 1576,
+                  "wattage": 54,
+                  "title": "Core i3-6098P"
+                },
+                {
+                  "id": 1577,
+                  "wattage": 51,
+                  "title": "Core i3-6100"
+                },
+                {
+                  "id": 1578,
+                  "wattage": 35,
+                  "title": "Core i3-6100T"
+                },
+                {
+                  "id": 1579,
+                  "wattage": 51,
+                  "title": "Core i3-6300"
+                },
+                {
+                  "id": 1580,
+                  "wattage": 35,
+                  "title": "Core i3-6300T"
+                },
+                {
+                  "id": 1581,
+                  "wattage": 51,
+                  "title": "Core i3-6320"
+                },
+                {
+                  "id": 1582,
+                  "wattage": 51,
+                  "title": "Core i3-7100"
+                },
+                {
+                  "id": 1583,
+                  "wattage": 35,
+                  "title": "Core i3-7100T"
+                },
+                {
+                  "id": 1584,
+                  "wattage": 51,
+                  "title": "Core i3-7300"
+                },
+                {
+                  "id": 1585,
+                  "wattage": 51,
+                  "title": "Core i3-7320"
+                },
+                {
+                  "id": 1586,
+                  "wattage": 60,
+                  "title": "Core i3-7350K"
+                },
+                {
+                  "id": 1587,
+                  "wattage": 62,
+                  "title": "Core i3-8100"
+                },
+                {
+                  "id": 1588,
+                  "wattage": 62,
+                  "title": "Core i3-8300"
+                },
+                {
+                  "id": 1589,
+                  "wattage": 35,
+                  "title": "Core i3-8300T"
+                },
+                {
+                  "id": 1590,
+                  "wattage": 91,
+                  "title": "Core i3-8350K"
+                },
+                {
+                  "id": 1591,
+                  "wattage": 65,
+                  "title": "Core i3-9100"
+                },
+                {
+                  "id": 1592,
+                  "wattage": 65,
+                  "title": "Core i3-9100F"
+                },
+                {
+                  "id": 1593,
+                  "wattage": 91,
+                  "title": "Core i3-9350KF"
+                },
+                {
+                  "id": 1594,
+                  "wattage": 65,
+                  "title": "Core i5-6400"
+                },
+                {
+                  "id": 1595,
+                  "wattage": 65,
+                  "title": "Core i5-6402P"
+                },
+                {
+                  "id": 1596,
+                  "wattage": 65,
+                  "title": "Core i5-6500"
+                },
+                {
+                  "id": 1597,
+                  "wattage": 65,
+                  "title": "Core i5-6600"
+                },
+                {
+                  "id": 1598,
+                  "wattage": 95,
+                  "title": "Core i5-6600K"
+                },
+                {
+                  "id": 1599,
+                  "wattage": 65,
+                  "title": "Core i5-6600T"
+                },
+                {
+                  "id": 1600,
+                  "wattage": 65,
+                  "title": "Core i5-7400"
+                },
+                {
+                  "id": 1601,
+                  "wattage": 65,
+                  "title": "Core i5-7500"
+                },
+                {
+                  "id": 1602,
+                  "wattage": 35,
+                  "title": "Core i5-7500T"
+                },
+                {
+                  "id": 1603,
+                  "wattage": 65,
+                  "title": "Core i5-7600"
+                },
+                {
+                  "id": 1604,
+                  "wattage": 91,
+                  "title": "Core i5-7600K"
+                },
+                {
+                  "id": 1605,
+                  "wattage": 35,
+                  "title": "Core i5-7600T"
+                },
+                {
+                  "id": 1606,
+                  "wattage": 65,
+                  "title": "Core i5-8400"
+                },
+                {
+                  "id": 1607,
+                  "wattage": 65,
+                  "title": "Core i5-8500"
+                },
+                {
+                  "id": 1608,
+                  "wattage": 35,
+                  "title": "Core i5-8500T"
+                },
+                {
+                  "id": 1609,
+                  "wattage": 65,
+                  "title": "Core i5-8600"
+                },
+                {
+                  "id": 1610,
+                  "wattage": 95,
+                  "title": "Core i5-8600K"
+                },
+                {
+                  "id": 1611,
+                  "wattage": 35,
+                  "title": "Core i5-8600T"
+                },
+                {
+                  "id": 1612,
+                  "wattage": 65,
+                  "title": "Core i5-9400"
+                },
+                {
+                  "id": 1613,
+                  "wattage": 65,
+                  "title": "Core i5-9400F"
+                },
+                {
+                  "id": 1614,
+                  "wattage": 65,
+                  "title": "Core i5-9500"
+                },
+                {
+                  "id": 1615,
+                  "wattage": 65,
+                  "title": "Core i5-9500F"
+                },
+                {
+                  "id": 1616,
+                  "wattage": 95,
+                  "title": "Core i5-9600K"
+                },
+                {
+                  "id": 1617,
+                  "wattage": 95,
+                  "title": "Core i5-9600KF"
+                },
+                {
+                  "id": 1618,
+                  "wattage": 65,
+                  "title": "Core i7-6700"
+                },
+                {
+                  "id": 1619,
+                  "wattage": 95,
+                  "title": "Core i7-6700K"
+                },
+                {
+                  "id": 1620,
+                  "wattage": 35,
+                  "title": "Core i7-6700TE"
+                },
+                {
+                  "id": 1621,
+                  "wattage": 65,
+                  "title": "Core i7-7700"
+                },
+                {
+                  "id": 1622,
+                  "wattage": 91,
+                  "title": "Core i7-7700K"
+                },
+                {
+                  "id": 1623,
+                  "wattage": 35,
+                  "title": "Core i7-7700T"
+                },
+                {
+                  "id": 1624,
+                  "wattage": 95,
+                  "title": "Core i7-8086K"
+                },
+                {
+                  "id": 1625,
+                  "wattage": 65,
+                  "title": "Core i7-8700"
+                },
+                {
+                  "id": 1626,
+                  "wattage": 95,
+                  "title": "Core i7-8700K"
+                },
+                {
+                  "id": 1627,
+                  "wattage": 65,
+                  "title": "Core i7-9700"
+                },
+                {
+                  "id": 1628,
+                  "wattage": 65,
+                  "title": "Core i7-9700F"
+                },
+                {
+                  "id": 1629,
+                  "wattage": 95,
+                  "title": "Core i7-9700K"
+                },
+                {
+                  "id": 1630,
+                  "wattage": 95,
+                  "title": "Core i7-9700KF"
+                },
+                {
+                  "id": 1631,
+                  "wattage": 65,
+                  "title": "Core i9-9900"
+                },
+                {
+                  "id": 1632,
+                  "wattage": 95,
+                  "title": "Core i9-9900K"
+                },
+                {
+                  "id": 1633,
+                  "wattage": 95,
+                  "title": "Core i9-9900KF"
+                },
+                {
+                  "id": 1634,
+                  "wattage": 51,
+                  "title": "Pentium G4400"
+                },
+                {
+                  "id": 1635,
+                  "wattage": 51,
+                  "title": "Pentium G4500"
+                },
+                {
+                  "id": 1636,
+                  "wattage": 51,
+                  "title": "Pentium G4520"
+                },
+                {
+                  "id": 1637,
+                  "wattage": 51,
+                  "title": "Pentium G4560"
+                },
+                {
+                  "id": 1638,
+                  "wattage": 35,
+                  "title": "Pentium G4560T"
+                },
+                {
+                  "id": 1639,
+                  "wattage": 51,
+                  "title": "Pentium G4600"
+                },
+                {
+                  "id": 1640,
+                  "wattage": 35,
+                  "title": "Pentium G4600T"
+                },
+                {
+                  "id": 1641,
+                  "wattage": 51,
+                  "title": "Pentium G4620"
+                },
+                {
+                  "id": 1642,
+                  "wattage": 51,
+                  "title": "Pentium Gold G5400"
+                },
+                {
+                  "id": 1643,
+                  "wattage": 51,
+                  "title": "Pentium Gold G5500"
+                },
+                {
+                  "id": 1644,
+                  "wattage": 51,
+                  "title": "Pentium Gold G5600"
+                }
+              ]
+            },
+            {
+              "id": 149,
+              "title": "LGA 1155",
+              "childs": [
+                {
+                  "id": 1645,
+                  "wattage": 55,
+                  "title": "Celeron G1610"
+                },
+                {
+                  "id": 1646,
+                  "wattage": 55,
+                  "title": "Celeron G1630"
+                },
+                {
+                  "id": 1647,
+                  "wattage": 65,
+                  "title": "Celeron G530"
+                },
+                {
+                  "id": 1648,
+                  "wattage": 65,
+                  "title": "Core i3-2100"
+                },
+                {
+                  "id": 1649,
+                  "wattage": 35,
+                  "title": "Core i3-2100T"
+                },
+                {
+                  "id": 1650,
+                  "wattage": 65,
+                  "title": "Core i3-2105"
+                },
+                {
+                  "id": 1651,
+                  "wattage": 65,
+                  "title": "Core i3-2120"
+                },
+                {
+                  "id": 1652,
+                  "wattage": 65,
+                  "title": "Core i3-2130"
+                },
+                {
+                  "id": 1653,
+                  "wattage": 55,
+                  "title": "Core i3-3210"
+                },
+                {
+                  "id": 1654,
+                  "wattage": 55,
+                  "title": "Core i3-3220"
+                },
+                {
+                  "id": 1655,
+                  "wattage": 35,
+                  "title": "Core i3-3220T"
+                },
+                {
+                  "id": 1656,
+                  "wattage": 55,
+                  "title": "Core i3-3225"
+                },
+                {
+                  "id": 1657,
+                  "wattage": 55,
+                  "title": "Core i3-3240"
+                },
+                {
+                  "id": 1658,
+                  "wattage": 55,
+                  "title": "Core i3-3245"
+                },
+                {
+                  "id": 1659,
+                  "wattage": 55,
+                  "title": "Core i3-3250"
+                },
+                {
+                  "id": 1660,
+                  "wattage": 95,
+                  "title": "Core i5-2310"
+                },
+                {
+                  "id": 1661,
+                  "wattage": 95,
+                  "title": "Core i5-2320"
+                },
+                {
+                  "id": 1662,
+                  "wattage": 95,
+                  "title": "Core i5-2400"
+                },
+                {
+                  "id": 1663,
+                  "wattage": 65,
+                  "title": "Core i5-2400S"
+                },
+                {
+                  "id": 1664,
+                  "wattage": 95,
+                  "title": "Core i5-2450P"
+                },
+                {
+                  "id": 1665,
+                  "wattage": 95,
+                  "title": "Core i5-2500"
+                },
+                {
+                  "id": 1666,
+                  "wattage": 95,
+                  "title": "Core i5-2500K"
+                },
+                {
+                  "id": 1667,
+                  "wattage": 95,
+                  "title": "Core i5-2550K"
+                },
+                {
+                  "id": 1668,
+                  "wattage": 77,
+                  "title": "Core i5-3330S"
+                },
+                {
+                  "id": 1669,
+                  "wattage": 35,
+                  "title": "Core i5-3340"
+                },
+                {
+                  "id": 1670,
+                  "wattage": 77,
+                  "title": "Core i5-3340S"
+                },
+                {
+                  "id": 1671,
+                  "wattage": 69,
+                  "title": "Core i5-3350P"
+                },
+                {
+                  "id": 1672,
+                  "wattage": 77,
+                  "title": "Core i5-3450"
+                },
+                {
+                  "id": 1673,
+                  "wattage": 65,
+                  "title": "Core i5-3450S"
+                },
+                {
+                  "id": 1674,
+                  "wattage": 77,
+                  "title": "Core i5-3470"
+                },
+                {
+                  "id": 1675,
+                  "wattage": 65,
+                  "title": "Core i5-3470S"
+                },
+                {
+                  "id": 1676,
+                  "wattage": 77,
+                  "title": "Core i5-3550"
+                },
+                {
+                  "id": 1677,
+                  "wattage": 77,
+                  "title": "Core i5-3570"
+                },
+                {
+                  "id": 1678,
+                  "wattage": 77,
+                  "title": "Core i5-3570K"
+                },
+                {
+                  "id": 1680,
+                  "wattage": 95,
+                  "title": "Core i7-2600"
+                },
+                {
+                  "id": 1681,
+                  "wattage": 95,
+                  "title": "Core i7-2600K"
+                },
+                {
+                  "id": 1682,
+                  "wattage": 65,
+                  "title": "Core i7-2600S"
+                },
+                {
+                  "id": 1679,
+                  "wattage": 95,
+                  "title": "Core i7 2700K"
+                },
+                {
+                  "id": 1683,
+                  "wattage": 77,
+                  "title": "Core i7-3770"
+                },
+                {
+                  "id": 1684,
+                  "wattage": 77,
+                  "title": "Core i7-3770K"
+                },
+                {
+                  "id": 1685,
+                  "wattage": 65,
+                  "title": "Core i7-3770S"
+                },
+                {
+                  "id": 1686,
+                  "wattage": 55,
+                  "title": "Pentium G2010"
+                },
+                {
+                  "id": 1687,
+                  "wattage": 55,
+                  "title": "Pentium G2020"
+                },
+                {
+                  "id": 1688,
+                  "wattage": 55,
+                  "title": "Pentium G2120"
+                },
+                {
+                  "id": 1689,
+                  "wattage": 55,
+                  "title": "Pentium G2130"
+                },
+                {
+                  "id": 1690,
+                  "wattage": 65,
+                  "title": "Pentium G620"
+                },
+                {
+                  "id": 1691,
+                  "wattage": 65,
+                  "title": "Pentium G630"
+                },
+                {
+                  "id": 1692,
+                  "wattage": 65,
+                  "title": "Pentium G840"
+                },
+                {
+                  "id": 1693,
+                  "wattage": 65,
+                  "title": "Pentium G850"
+                },
+                {
+                  "id": 1694,
+                  "wattage": 65,
+                  "title": "Pentium G860"
+                }
+              ]
+            },
+            {
+              "id": 200,
+              "title": "LGA 1156",
+              "childs": [
+                {
+                  "id": 1695,
+                  "wattage": 73,
+                  "title": "Core i3-530"
+                },
+                {
+                  "id": 1696,
+                  "wattage": 73,
+                  "title": "Core i3-540"
+                },
+                {
+                  "id": 1697,
+                  "wattage": 73,
+                  "title": "Core i3-550"
+                },
+                {
+                  "id": 1698,
+                  "wattage": 73,
+                  "title": "Core i3-560"
+                },
+                {
+                  "id": 1699,
+                  "wattage": 73,
+                  "title": "Core i5-650"
+                },
+                {
+                  "id": 1700,
+                  "wattage": 73,
+                  "title": "Core i5-655K"
+                },
+                {
+                  "id": 1701,
+                  "wattage": 87,
+                  "title": "Core i5-661"
+                },
+                {
+                  "id": 1702,
+                  "wattage": 73,
+                  "title": "Core i5-670"
+                },
+                {
+                  "id": 1703,
+                  "wattage": 95,
+                  "title": "Core i5-750"
+                },
+                {
+                  "id": 1704,
+                  "wattage": 82,
+                  "title": "Core i5-750S"
+                },
+                {
+                  "id": 1705,
+                  "wattage": 95,
+                  "title": "Core i5-760"
+                },
+                {
+                  "id": 1706,
+                  "wattage": 95,
+                  "title": "Core i7-860"
+                },
+                {
+                  "id": 1707,
+                  "wattage": 82,
+                  "title": "Core i7-860S"
+                },
+                {
+                  "id": 1708,
+                  "wattage": 95,
+                  "title": "Core i7-870"
+                },
+                {
+                  "id": 1709,
+                  "wattage": 95,
+                  "title": "Core i7-875K"
+                },
+                {
+                  "id": 1710,
+                  "wattage": 73,
+                  "title": "Pentium G6950"
+                }
+              ]
+            },
+            {
+              "id": 1228,
+              "title": "LGA 1200",
+              "childs": [
+                {
+                  "id": 1713,
+                  "wattage": 35,
+                  "title": "Core i3-10100T"
+                },
+                {
+                  "id": 1712,
+                  "wattage": 65,
+                  "title": "Core i3-10100"
+                },
+                {
+                  "id": 1714,
+                  "wattage": 65,
+                  "title": "Core i3-10300"
+                },
+                {
+                  "id": 1715,
+                  "wattage": 65,
+                  "title": "Core i3-10320"
+                },
+                {
+                  "id": 1716,
+                  "wattage": 125,
+                  "title": "Core i3-10350K"
+                },
+                {
+                  "id": 1718,
+                  "wattage": 65,
+                  "title": "Core i5-10400F"
+                },
+                {
+                  "id": 1717,
+                  "wattage": 65,
+                  "title": "Core i5-10400"
+                },
+                {
+                  "id": 1720,
+                  "wattage": 35,
+                  "title": "Core i5-10500T"
+                },
+                {
+                  "id": 1719,
+                  "wattage": 65,
+                  "title": "Core i5-10500"
+                },
+                {
+                  "id": 1724,
+                  "wattage": 35,
+                  "title": "Core i5-10600T"
+                },
+                {
+                  "id": 1721,
+                  "wattage": 65,
+                  "title": "Core i5-10600"
+                },
+                {
+                  "id": 1723,
+                  "wattage": 125,
+                  "title": "Core i5-10600KF"
+                },
+                {
+                  "id": 1722,
+                  "wattage": 125,
+                  "title": "Core i5-10600K"
+                },
+                {
+                  "id": 1729,
+                  "wattage": 35,
+                  "title": "Core i7-10700T"
+                },
+                {
+                  "id": 1726,
+                  "wattage": 65,
+                  "title": "Core i7-10700F"
+                },
+                {
+                  "id": 1725,
+                  "wattage": 65,
+                  "title": "Core i7-10700"
+                },
+                {
+                  "id": 1728,
+                  "wattage": 125,
+                  "title": "Core i7-10700KF"
+                },
+                {
+                  "id": 1727,
+                  "wattage": 125,
+                  "title": "Core i7-10700K"
+                },
+                {
+                  "id": 1733,
+                  "wattage": 35,
+                  "title": "Core i9-10900T"
+                },
+                {
+                  "id": 1731,
+                  "wattage": 65,
+                  "title": "Core i9-10900F"
+                },
+                {
+                  "id": 1730,
+                  "wattage": 65,
+                  "title": "Core i9-10900"
+                },
+                {
+                  "id": 1732,
+                  "wattage": 125,
+                  "title": "Core i9-10900KF"
+                },
+                {
+                  "id": 1711,
+                  "wattage": 125,
+                  "title": "Core 19-10900K"
+                }
+              ]
+            },
+            {
+              "id": 229,
+              "title": "LGA 2011",
+              "childs": [
+                {
+                  "id": 1734,
+                  "wattage": 130,
+                  "title": "Core i7-3820"
+                },
+                {
+                  "id": 1735,
+                  "wattage": 130,
+                  "title": "Core i7-3930K"
+                },
+                {
+                  "id": 1736,
+                  "wattage": 130,
+                  "title": "Core i7-3960X Extreme Edition"
+                },
+                {
+                  "id": 1737,
+                  "wattage": 130,
+                  "title": "Core i7-4820K"
+                },
+                {
+                  "id": 1738,
+                  "wattage": 130,
+                  "title": "Core i7-4930K"
+                },
+                {
+                  "id": 1739,
+                  "wattage": 130,
+                  "title": "Core i7-4960X"
+                }
+              ]
+            },
+            {
+              "id": 236,
+              "title": "LGA 2011-v3",
+              "childs": [
+                {
+                  "id": 1740,
+                  "wattage": 140,
+                  "title": "Core i7-5820K"
+                },
+                {
+                  "id": 1741,
+                  "wattage": 140,
+                  "title": "Core i7-5930K"
+                },
+                {
+                  "id": 1742,
+                  "wattage": 140,
+                  "title": "Core i7-5960X"
+                },
+                {
+                  "id": 1743,
+                  "wattage": 140,
+                  "title": "Core i7-6800K"
+                },
+                {
+                  "id": 1744,
+                  "wattage": 140,
+                  "title": "Core i7-6850K"
+                },
+                {
+                  "id": 1745,
+                  "wattage": 140,
+                  "title": "Core i7-6900K"
+                },
+                {
+                  "id": 1746,
+                  "wattage": 140,
+                  "title": "Core i7-6950X"
+                }
+              ]
+            },
+            {
+              "id": 244,
+              "title": "LGA 2066",
+              "childs": [
+                {
+                  "id": 1747,
+                  "wattage": 112,
+                  "title": "Core i7-7740X"
+                },
+                {
+                  "id": 1748,
+                  "wattage": 140,
+                  "title": "Core i7-7800X"
+                },
+                {
+                  "id": 1749,
+                  "wattage": 140,
+                  "title": "Core i7-7820X"
+                },
+                {
+                  "id": 1750,
+                  "wattage": 165,
+                  "title": "Core i7-9800X"
+                },
+                {
+                  "id": 1751,
+                  "wattage": 140,
+                  "title": "Core i9-7900X"
+                },
+                {
+                  "id": 1752,
+                  "wattage": 140,
+                  "title": "Core i9-7920X"
+                },
+                {
+                  "id": 1753,
+                  "wattage": 165,
+                  "title": "Core i9-7940X"
+                },
+                {
+                  "id": 1754,
+                  "wattage": 165,
+                  "title": "Core i9-7960X"
+                },
+                {
+                  "id": 1755,
+                  "wattage": 165,
+                  "title": "Core i9-7980XE"
+                },
+                {
+                  "id": 1756,
+                  "wattage": 165,
+                  "title": "Core i9-9820X"
+                },
+                {
+                  "id": 1757,
+                  "wattage": 165,
+                  "title": "Core i9-9900X"
+                },
+                {
+                  "id": 1758,
+                  "wattage": 165,
+                  "title": "Core i9-9920X"
+                },
+                {
+                  "id": 1759,
+                  "wattage": 165,
+                  "title": "Core i9-9940X"
+                },
+                {
+                  "id": 1760,
+                  "wattage": 165,
+                  "title": "Core i9-9960X"
+                },
+                {
+                  "id": 1761,
+                  "wattage": 165,
+                  "title": "Core i9-9980XE"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Motherboard",
+      "key": "MOTHERBOARD",
+      "showOrder": 2,
+      "levels": 1,
+      "components": [
+        {
+          "id": 363,
+          "wattage": 70,
+          "title": "ATX"
+        },
+        {
+          "id": 364,
+          "wattage": 60,
+          "title": "Micro ATX"
+        },
+        {
+          "id": 365,
+          "wattage": 30,
+          "title": "Mini-ATX"
+        },
+        {
+          "id": 368,
+          "wattage": 20,
+          "title": "Thin Mini-ITX"
+        },
+        {
+          "id": 366,
+          "wattage": 150,
+          "title": "SSI CEB"
+        },
+        {
+          "id": 367,
+          "wattage": 150,
+          "title": "SSI EEB"
+        },
+        {
+          "id": 369,
+          "wattage": 130,
+          "title": "XL ATX"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "GPU",
+      "showQtyOption": true,
+      "key": "GPU",
+      "showOrder": 3,
+      "levels": 2,
+      "components": [
+        {
+          "id": 390,
+          "title": "NVIDIA",
+          "childs": [
+            {
+              "id": 398,
+              "wattage": 64,
+              "title": "GeForce GTX 650"
+            },
+            {
+              "id": 399,
+              "wattage": 110,
+              "title": "GeForce GTX 650 Ti"
+            },
+            {
+              "id": 481,
+              "wattage": 130,
+              "title": "GeForce GTX 660"
+            },
+            {
+              "id": 400,
+              "wattage": 150,
+              "title": "GeForce GTX 660 Ti"
+            },
+            {
+              "id": 482,
+              "wattage": 170,
+              "title": "GeForce GTX 670"
+            },
+            {
+              "id": 401,
+              "wattage": 195,
+              "title": "GeForce GTX 680"
+            },
+            {
+              "id": 483,
+              "wattage": 300,
+              "title": "GeForce GTX 690"
+            },
+            {
+              "id": 402,
+              "wattage": 55,
+              "title": "GeForce GTX 750"
+            },
+            {
+              "id": 403,
+              "wattage": 60,
+              "title": "GeForce GTX 750 Ti"
+            },
+            {
+              "id": 484,
+              "wattage": 170,
+              "title": "GeForce GTX 760"
+            },
+            {
+              "id": 404,
+              "wattage": 230,
+              "title": "GeForce GTX 770"
+            },
+            {
+              "id": 485,
+              "wattage": 230,
+              "title": "Geforce GTX 780"
+            },
+            {
+              "id": 486,
+              "wattage": 230,
+              "title": "Geforce GTX 780 Ti"
+            },
+            {
+              "id": 488,
+              "wattage": 375,
+              "title": "GeForce GTX TITAN Z"
+            },
+            {
+              "id": 405,
+              "wattage": 90,
+              "title": "GeForce GTX 950"
+            },
+            {
+              "id": 406,
+              "wattage": 120,
+              "title": "GeForce GTX 960"
+            },
+            {
+              "id": 407,
+              "wattage": 170,
+              "title": "GeForce GTX 970"
+            },
+            {
+              "id": 408,
+              "wattage": 165,
+              "title": "GeForce GTX 980"
+            },
+            {
+              "id": 409,
+              "wattage": 250,
+              "title": "GeForce GTX 980 Ti"
+            },
+            {
+              "id": 487,
+              "wattage": 250,
+              "title": "Geforce GTX TITAN X"
+            },
+            {
+              "id": 471,
+              "wattage": 30,
+              "title": "GeForce GTX 1030"
+            },
+            {
+              "id": 472,
+              "wattage": 75,
+              "title": "GeForce GTX 1050"
+            },
+            {
+              "id": 395,
+              "wattage": 75,
+              "title": "GeForce GTX 1050 Ti"
+            },
+            {
+              "id": 473,
+              "wattage": 120,
+              "title": "GeForce GTX 1060"
+            },
+            {
+              "id": 397,
+              "wattage": 75,
+              "title": "GeForce GTX 1650"
+            },
+            {
+              "id": 477,
+              "wattage": 100,
+              "title": "GeForce GTX 1650 SUPER"
+            },
+            {
+              "id": 478,
+              "wattage": 120,
+              "title": "GeForce GTX 1660"
+            },
+            {
+              "id": 479,
+              "wattage": 125,
+              "title": "GeForce GTX 1660 SUPER"
+            },
+            {
+              "id": 480,
+              "wattage": 120,
+              "title": "GeForce GTX 1660 Ti"
+            },
+            {
+              "id": 474,
+              "wattage": 150,
+              "title": "GeForce GTX 1070"
+            },
+            {
+              "id": 475,
+              "wattage": 180,
+              "title": "GeForce GTX 1070 Ti"
+            },
+            {
+              "id": 396,
+              "wattage": 180,
+              "title": "GeForce GTX 1080"
+            },
+            {
+              "id": 476,
+              "wattage": 250,
+              "title": "GeForce GTX 1080 Ti"
+            },
+            {
+              "id": 492,
+              "wattage": 250,
+              "title": "NVIDIA TITAN X"
+            },
+            {
+              "id": 491,
+              "wattage": 250,
+              "title": "NVIDIA TITAN V"
+            },
+            {
+              "id": 411,
+              "wattage": 190,
+              "title": "GeForce RTX 2060"
+            },
+            {
+              "id": 412,
+              "wattage": 175,
+              "title": "GeForce RTX 2060 SUPER"
+            },
+            {
+              "id": 413,
+              "wattage": 225,
+              "title": "GeForce RTX 2070"
+            },
+            {
+              "id": 414,
+              "wattage": 215,
+              "title": "GeForce RTX 2070 SUPER"
+            },
+            {
+              "id": 415,
+              "wattage": 250,
+              "title": "GeForce RTX 2080 SUPER"
+            },
+            {
+              "id": 489,
+              "wattage": 250,
+              "title": "GeForce RTX 2080"
+            },
+            {
+              "id": 416,
+              "wattage": 250,
+              "title": "GeForce RTX 2080 Ti"
+            },
+            {
+              "id": 490,
+              "wattage": 250,
+              "title": "NVIDIA TITAN RTX"
+            },
+            {
+              "id": 1762,
+              "wattage": 220,
+              "title": "GeForce RTX 3070"
+            },
+            {
+              "id": 1763,
+              "wattage": 320,
+              "title": "GeForce RTX 3080"
+            },
+            {
+              "id": 1764,
+              "wattage": 350,
+              "title": "GeForce RTX 3090"
+            }
+          ]
+        },
+        {
+          "id": 370,
+          "title": "AMD",
+          "childs": [
+            {
+              "id": 373,
+              "wattage": 30,
+              "title": "Radeon R7 240"
+            },
+            {
+              "id": 446,
+              "wattage": 65,
+              "title": "Radeon R7 250"
+            },
+            {
+              "id": 447,
+              "wattage": 95,
+              "title": "Radeon R7 260"
+            },
+            {
+              "id": 374,
+              "wattage": 115,
+              "title": "Radeon R7 260X"
+            },
+            {
+              "id": 375,
+              "wattage": 55,
+              "title": "Radeon R7 350"
+            },
+            {
+              "id": 376,
+              "wattage": 100,
+              "title": "Radeon R7 360"
+            },
+            {
+              "id": 377,
+              "wattage": 110,
+              "title": "Radeon R7 370"
+            },
+            {
+              "id": 378,
+              "wattage": 150,
+              "title": "Radeon R9 270"
+            },
+            {
+              "id": 379,
+              "wattage": 180,
+              "title": "Radeon R9 270X"
+            },
+            {
+              "id": 450,
+              "wattage": 190,
+              "title": "Radeon R9 285"
+            },
+            {
+              "id": 448,
+              "wattage": 200,
+              "title": "Radeon R9 280"
+            },
+            {
+              "id": 449,
+              "wattage": 250,
+              "title": "Radeon R9 280X"
+            },
+            {
+              "id": 380,
+              "wattage": 275,
+              "title": "Radeon R9 290"
+            },
+            {
+              "id": 451,
+              "wattage": 290,
+              "title": "Radeon R9 290X"
+            },
+            {
+              "id": 452,
+              "wattage": 110,
+              "title": "Radeon R9 370"
+            },
+            {
+              "id": 453,
+              "wattage": 180,
+              "title": "Radeon R9 370X"
+            },
+            {
+              "id": 454,
+              "wattage": 190,
+              "title": "Radeon R9 380"
+            },
+            {
+              "id": 455,
+              "wattage": 190,
+              "title": "Radeon R9 380X"
+            },
+            {
+              "id": 456,
+              "wattage": 275,
+              "title": "Radeon R9 390"
+            },
+            {
+              "id": 381,
+              "wattage": 275,
+              "title": "Radeon R9 390X"
+            },
+            {
+              "id": 457,
+              "wattage": 70,
+              "title": "Radeon RX 460"
+            },
+            {
+              "id": 382,
+              "wattage": 120,
+              "title": "Radeon RX 470"
+            },
+            {
+              "id": 458,
+              "wattage": 150,
+              "title": "Radeon RX 480"
+            },
+            {
+              "id": 459,
+              "wattage": 40,
+              "title": "Radeon RX 540"
+            },
+            {
+              "id": 383,
+              "wattage": 50,
+              "title": "Radeon RX 550"
+            },
+            {
+              "id": 384,
+              "wattage": 80,
+              "title": "Radeon RX 560"
+            },
+            {
+              "id": 465,
+              "wattage": 150,
+              "title": "Radeon RX 570"
+            },
+            {
+              "id": 468,
+              "wattage": 185,
+              "title": "Radeon RX 580"
+            },
+            {
+              "id": 460,
+              "wattage": 50,
+              "title": "Radeon RX 540X"
+            },
+            {
+              "id": 462,
+              "wattage": 60,
+              "title": "Radeon RX 550X"
+            },
+            {
+              "id": 464,
+              "wattage": 90,
+              "title": "Radeon RX 560X"
+            },
+            {
+              "id": 467,
+              "wattage": 170,
+              "title": "Radeon RX 570X"
+            },
+            {
+              "id": 469,
+              "wattage": 200,
+              "title": "Radeon RX 580X"
+            },
+            {
+              "id": 470,
+              "wattage": 190,
+              "title": "Radeon RX 590"
+            },
+            {
+              "id": 461,
+              "wattage": 130,
+              "title": "Radeon RX 5500 XT"
+            },
+            {
+              "id": 463,
+              "wattage": 150,
+              "title": "Radeon RX 5600 XT"
+            },
+            {
+              "id": 385,
+              "wattage": 180,
+              "title": "Radeon RX 5700"
+            },
+            {
+              "id": 386,
+              "wattage": 225,
+              "title": "Radeon RX 5700 XT"
+            },
+            {
+              "id": 466,
+              "wattage": 235,
+              "title": "Radeon RX 5700 XT 50th Anniversary"
+            },
+            {
+              "id": 387,
+              "wattage": 210,
+              "title": "Radeon RX Vega 56"
+            },
+            {
+              "id": 388,
+              "wattage": 295,
+              "title": "Radeon RX Vega 64"
+            },
+            {
+              "id": 389,
+              "wattage": 300,
+              "title": "Radeon VII"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "RAM",
+      "showQtyOption": true,
+      "key": "RAM",
+      "showOrder": 4,
+      "levels": 1,
+      "components": [
+        {
+          "id": 421,
+          "wattage": 12,
+          "title": "32GB DDR4"
+        },
+        {
+          "id": 418,
+          "wattage": 6,
+          "title": "16GB DDR4"
+        },
+        {
+          "id": 425,
+          "wattage": 3,
+          "title": "8GB DDR4"
+        },
+        {
+          "id": 423,
+          "wattage": 1.5,
+          "title": "4GB DDR4"
+        },
+        {
+          "id": 420,
+          "wattage": 6,
+          "title": "32GB DDR3"
+        },
+        {
+          "id": 424,
+          "wattage": 3,
+          "title": "8GB DDR3"
+        },
+        {
+          "id": 422,
+          "wattage": 2,
+          "title": "4GB DDR3"
+        },
+        {
+          "id": 419,
+          "wattage": 1.5,
+          "title": "2GB DDR3"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "SSD",
+      "showQtyOption": true,
+      "key": "SSD",
+      "showOrder": 5,
+      "levels": 1,
+      "components": [
+        {
+          "id": 430,
+          "wattage": 0,
+          "title": "Not Installed"
+        },
+        {
+          "id": 431,
+          "wattage": 15,
+          "title": "Under 120GB"
+        },
+        {
+          "id": 426,
+          "wattage": 15,
+          "title": "120GB - 256GB"
+        },
+        {
+          "id": 428,
+          "wattage": 15,
+          "title": "256GB - 512GB"
+        },
+        {
+          "id": 429,
+          "wattage": 15,
+          "title": "512GB - 1TB"
+        },
+        {
+          "id": 427,
+          "wattage": 15,
+          "title": "1TB+"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "HDD",
+      "showQtyOption": true,
+      "key": "HDD",
+      "showOrder": 6,
+      "levels": 1,
+      "components": [
+        {
+          "id": 438,
+          "wattage": 0,
+          "title": "Not Installed"
+        },
+        {
+          "id": 436,
+          "wattage": 15,
+          "title": "5400RPM 3.5\" HDD"
+        },
+        {
+          "id": 437,
+          "wattage": 15,
+          "title": "7200RPM 3.5\" HDD"
+        },
+        {
+          "id": 432,
+          "wattage": 15,
+          "title": "10,000RPM 2.5\" HDD"
+        },
+        {
+          "id": 433,
+          "wattage": 15,
+          "title": "10,000RPM 3.5\" HDD"
+        },
+        {
+          "id": 434,
+          "wattage": 15,
+          "title": "15,000RPM 2.5\" HDD"
+        },
+        {
+          "id": 435,
+          "wattage": 15,
+          "title": "15,000RPM 3.5\" HDD"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "OPTICAL DRIVE",
+      "key": "OPTICAL_DRIVE",
+      "showOrder": 7,
+      "levels": 1,
+      "components": [
+        {
+          "id": 445,
+          "wattage": 0,
+          "title": "Not Installed"
+        },
+        {
+          "id": 439,
+          "wattage": 30,
+          "title": "Blu-Ray"
+        },
+        {
+          "id": 444,
+          "wattage": 30,
+          "title": "DVD-RW"
+        },
+        {
+          "id": 442,
+          "wattage": 24,
+          "title": "COMBO"
+        },
+        {
+          "id": 441,
+          "wattage": 16,
+          "title": "CD-RW"
+        },
+        {
+          "id": 443,
+          "wattage": 20,
+          "title": "DVD-ROM"
+        },
+        {
+          "id": 440,
+          "wattage": 15,
+          "title": "CD-ROM"
+        }
+      ]
+    }
+  ],
+  "dictionary": [
+    {
+      "key": "Watts",
+      "value": "Watts"
+    },
+    {
+      "key": "RecommendedPsu",
+      "value": "Recommended PSU's"
+    },
+    {
+      "key": "ComponentGroup_RAM",
+      "value": "RAM"
+    },
+    {
+      "key": "RpmSize",
+      "value": "RPM & Size"
+    },
+    {
+      "key": "YourRecommendedPsuWattage",
+      "value": "Your recommended PSU wattage is:"
+    },
+    {
+      "key": "Cable_Management_Full_Modular",
+      "value": "Full-Modular"
+    },
+    {
+      "key": "Select",
+      "value": "Select"
+    },
+    {
+      "key": "Cable_Management_Fix_Cable",
+      "value": "Fixed"
+    },
+    {
+      "key": "Efficiency_Rating_80_PLUS_Silver",
+      "value": "80 PLUS Silver"
+    },
+    {
+      "key": "StorageSize",
+      "value": "Storage Size"
+    },
+    {
+      "key": "Type",
+      "value": "Type"
+    },
+    {
+      "key": "ComponentGroup_SSD",
+      "value": "SSD"
+    },
+    {
+      "key": "PowerSupplyCalculator",
+      "value": "Power Supply Calculator"
+    },
+    {
+      "key": "MemoryModule",
+      "value": "Memory module"
+    },
+    {
+      "key": "Efficiency_Rating_80_PLUS_Platinum",
+      "value": "80 PLUS Platinum"
+    },
+    {
+      "key": "Brand",
+      "value": "Brand"
+    },
+    {
+      "key": "ResetAll",
+      "value": "Reset All"
+    },
+    {
+      "key": "Efficiency_Rating_80_PLUS_Bronze",
+      "value": "80 PLUS Bronze"
+    },
+    {
+      "key": "ComponentGroup_MOTHERBOARD",
+      "value": "MOTHERBOARD"
+    },
+    {
+      "key": "Buy",
+      "value": "More information"
+    },
+    {
+      "key": "Amount",
+      "value": "Amount"
+    },
+    {
+      "key": "ComponentGroup_HDD",
+      "value": "HDD"
+    },
+    {
+      "key": "ComponentGroup_OPTICAL_DRIVE",
+      "value": "OPTICAL DRIVE"
+    },
+    {
+      "key": "VideoCard",
+      "value": "Graphics Card"
+    },
+    {
+      "key": "Socket",
+      "value": "Socket"
+    },
+    {
+      "key": "ComponentGroup_GPU",
+      "value": "GPU"
+    },
+    {
+      "key": "FormFactor",
+      "value": "Form Factor"
+    },
+    {
+      "key": "Model",
+      "value": "Model"
+    },
+    {
+      "key": "Efficiency_Rating_80_PLUS_Titanium",
+      "value": "80 PLUS Titanium"
+    },
+    {
+      "key": "Efficiency_Rating_80_PLUS_Gold",
+      "value": "80 PLUS Gold"
+    },
+    {
+      "key": "Efficiency_Rating_NON_80_PLUS",
+      "value": "NON 80 PLUS"
+    },
+    {
+      "key": "Efficiency_Rating_80_PLUS",
+      "value": "80 PLUS White"
+    },
+    {
+      "key": "ComponentGroup_CPU",
+      "value": "CPU"
+    },
+    {
+      "key": "MakeAChoise",
+      "value": "Make a Selection"
+    },
+    {
+      "key": "Cable_Management_Semi_Modular",
+      "value": "Semi-Modular"
+    }
+  ],
+  "settings": {}
+}
